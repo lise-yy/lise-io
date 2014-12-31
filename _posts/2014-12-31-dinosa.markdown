@@ -2,13 +2,13 @@
 layout:     post
 title:      "Hello, 2015"
 subtitle:   "and cheers, 2014"
-date:       2014-12-31 12:00:00
+date:       2014-12-31 17:55:00
 author:     "Elizaveta Yanovskaya"
 header-img: "img/post-bg-2014-12-31.jpg"
 ---
 
-<p>2014 is the first year I spent entirely with <a href="http://csssr.com">CSSSR</a> — an outstanding web-development company. In 365 days I've made it from junior manager to COO, formed the best team in the company, lead difficult projects and clients, and trained other managers.</p>
+<p>2014 is the first year I spent entirely with <a href="http://csssr.com">CSSSR</a> — an outstanding web-development company. In 365 days I've made it from junior manager to COO, formed the best team in the company, led difficult projects and clients, and trained other managers.</p>
 
 <p>Apart from that I've been traveling and living in different places; Belarus, Bulgaria, Turkey, and Cyprus they were. At the moment I'm in Sri Lanka, tanned and happy.</p>
 
-<p>So at some point — probably a month ago — I realised that all the experience I gained, both working and traveling, had started to overwhelm me, and a blog should have been created to share knowledge. I don't make any promises, but I hope it'll be entertaining for some and useful for others.</p>
+<p>So at some point — probably a month ago — I realised that all the experience I gained, both working and traveling, had started to overwhelm me, and a blog should have been created to share the knowledge. I don't make any promises, but I hope it'll be entertaining for some and useful for others.</p>
