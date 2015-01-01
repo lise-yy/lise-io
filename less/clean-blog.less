@@ -157,8 +157,8 @@ hr.small {
 // Header
 
 .intro-header {
-	background-color: @gray; 
-	background: no-repeat center center; 
+	background-color: @gray;
+	background: no-repeat center center;
 	background-attachment: scroll;
 	.background-cover;
 	// NOTE: Background images are set within the HTML using inline CSS!
@@ -460,4 +460,10 @@ img::-moz-selection {
 
 body {
 	webkit-tap-highlight-color: @brand-primary;
+}
+
+@media screen and (max-width: 320px) {
+	.intro-header .site-heading h1 {
+		font-size: 40px;
+	}
 }
